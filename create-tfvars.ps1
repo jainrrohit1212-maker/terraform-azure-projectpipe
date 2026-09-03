@@ -29,6 +29,4 @@ $output += "}`n"
 
 Set-Content -Path $tfvarsFile -Value $output
 
-Write-Host "terraform.tfvars created successfully!"
-Hover over a message to pin it
-keep
+Write-Host "terraform.tfvars created successfully
